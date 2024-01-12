@@ -1,0 +1,139 @@
+.blue-bar {
+	background-color: #00122F;
+	color: white;
+}
+
+.blue-bar a {
+	color: white;
+}
+
+.bl-menu {
+	float: left;
+}
+
+.bl-menu ul {
+	column-count: 2;
+	column-gap: 20px;
+	list-style: none;
+	float: left;
+	line-height: 2;
+	margin: 0;
+	padding: 0;
+}
+
+.fixed-container-n  {
+	padding-top: 57px;
+	width: 1000px;
+	height: 203px;
+	margin: 0 auto;
+	overflow-y: hidden;
+}
+
+.mn-2 {
+	text-decoration: none;
+	color: white;
+	border-bottom: none;
+}
+
+.blue-ag {
+	width: 200px;
+	float: left;
+	margin-left: 200px;
+	margin-right: 110px;
+}
+
+.blue-ag ul{
+	column-gap: 100px;
+	list-style: none;
+	float: left;
+	line-height: 2;
+	margin: 0;
+	padding: 0;
+}
+
+.bl1 {
+	padding: 0px 20px 20px 0px;
+}
+
+.bl2 {
+	display: block;
+	width: 30px;
+	height: 30px;
+	background: url('../img/bl2.png') transparent no-repeat 50% 50%;
+}
+
+.bl3 {
+	display: block;
+	width: 30px;
+	height: 30px;
+	background: url('../img/bl3.png') transparent no-repeat 50% 50%;
+}
+
+.bl4 {
+	display: block;
+	width: 30px;
+	height: 30px;
+	background: url('../img/bl4.png') transparent no-repeat 50% 50%;
+}
+
+.bl5 {
+	display: block;
+	width: 30px;
+	height: 30px;
+	background: url('../img/bl5.png') transparent no-repeat 50% 50%;
+}
+
+.blue-ag-cont ul {
+	float: right;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+  }
+
+.blue-ag-cont ul li {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 10px;
+  }
+
+.blue-ag-cont {
+	width: 235px;
+	float: left;
+}
+
+.bl {
+	float: left;
+	padding-right: 15px;
+	padding-bottom: 20px;
+}
+
+.telef {
+	float: left;
+	padding-left: 25px;
+  background-image: url('../img/bl6.png');
+	background-repeat: no-repeat;
+	margin: 35px 0 0 15px;
+	text-decoration: none;
+	color: white;
+	border-bottom: none;
+}
+
+.mail {
+	float: left;
+  padding-left: 25px;
+  background-image: url('../img/bl7.png');
+  background-repeat: no-repeat;
+	margin: 25px 0 0 15px;
+  text-decoration: none;
+	color: white;
+	border-bottom: none;
+}
+
+.bottom {
+	text-align: center;
+	background-color: #00122F;
+	padding: 20px 0;
+	color: #374152;
+	font-size: 10px;
+	border-top: 2px solid #26354E;
+}

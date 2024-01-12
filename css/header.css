@@ -1,0 +1,112 @@
+.black-bar {
+	background-color: black;
+	color: white;
+	padding: 20px 0;
+}
+
+.black-bar a {
+	color: white;
+}
+
+.datetime {
+	float: right;
+}
+
+.header {
+	height: 60px;
+	padding-top: 40px;
+}
+
+.logo {
+	position: relative;
+	float: left;
+}
+
+.item-city {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 60px;
+}
+
+
+.msk {
+	text-decoration: none;
+	color: #0088cc;
+	border-bottom: 1px dashed #0088cc;
+	position: relative;
+	float: left;
+	top: 15px;
+}
+
+.arrow {
+	display: inline-block;
+	vertical-align: middle;
+	width: 10px;
+	height: 10px;
+	margin: 23px 0 0 3px;
+	background: url('../img/strel.png') no-repeat;
+}
+
+.temp {
+	position: relative;
+	float: right;
+	color: gray;
+	top: 10px;
+	margin-right: 45px;
+	padding: 3px 0 3px 35px;
+	background-image: url('../img/pgd.png');
+	background-repeat: no-repeat;
+}
+
+.search {
+	width: 320px;
+	height: 40px;
+	float: right;
+	border: 0;
+	background-color:#f3f3f3;
+	border-radius: 30px;
+	font-size: 12px;
+	padding: 5px 15px;
+}
+
+.search-btn {
+	width: 40px;
+	height: 40px;
+	border: 0;
+	right: 0px;
+	background: url('http://abhc.com.au/images/icon-search.png') no-repeat 50% 50%;
+	background-size: 40%;
+	position: absolute;
+	cursor: pointer;
+  }
+
+.menu a {
+	text-decoration: none;
+	color: black;
+}
+
+.menu {
+	padding: 15px 0 35px;
+}
+
+.mn {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.mn:before {
+	content: "/";
+	color: lightgrey;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+.mn:first-child:before {
+	content: "";
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.menu-container {
+	height: 70px;
+}
